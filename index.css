@@ -1,0 +1,57 @@
+.nikita1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.nikita2{
+    color: red;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+.nikita3{
+    color: darkred;
+}
+.nikita4{
+    color: red;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+.nikita5{
+    color: maroon;
+    font-size: large;
+    letter-spacing: 5px;
+}
+.nikita6{
+    color: darkred;
+    font-weight: bold;
+}
+.nikita7{
+    color: red;
+    font-style: italic;
+    font-size: x-large;
+    text-decoration: none;
+    background-color: yellow;
+}
+.nikita8{
+    color: darkred;
+    font-weight: bold;
+}
+.nikita9{
+    color: darkred;
+    font-weight: bold;
+}
+.nikita11{
+    font-style: italic;
+    text-decoration: underline;
+}
+.nikita12{
+    background-color: yellow;
+}
+.nikita13{
+    text-decoration: line-through;
+}
+.nikita14{
+    background-color: yellow;
+}
